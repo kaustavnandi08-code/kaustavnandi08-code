@@ -11,10 +11,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kaustavnandi08-code&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
-##🚀 My projects
-###🛒Amazon clone
+###🚀 My projects
+#🛒Amazon clone
 a front-end Amazon clone built  using html,css,javascript.
-[view Project on GitHub](
+[view Project on GitHub](https://github.com/kaustavnandi08-code/amamzon-clone)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
