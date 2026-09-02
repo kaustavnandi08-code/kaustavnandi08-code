@@ -15,7 +15,7 @@
 ## 🛒Amazon clone
 a front-end Amazon clone built  using **html,css,javascript.**
 **[view Project on
-GitHub](🔗https://github.com/kaustavnandi08-code/amamzon-clone)**
+GitHub]** (🔗https://github.com/kaustavnandi08-code/amamzon-clone)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
