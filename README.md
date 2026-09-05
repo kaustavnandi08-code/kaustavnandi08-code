@@ -22,6 +22,20 @@ A front-end Amazon clone built  using **html,css,javascript.**
 **[view Project on
 GitHub]**(🔗https://github.com/kaustavnandi08-code/tic-tac-toe-)
 
+# Text-to-speech-ai-bot..
+a futuristic text to speech ai bot made with HTML, CSS, FLASK and PYTHON...
+## Features..
+-Text to speech
+-futuristic UI..
+-Glowing effects
+-flask backend
+## Technologies..🤖
+HTML
+CSS
+PYTTSX3
+PYTHON
+**[view project on GitHub]**(🔗https://github.com/kaustavnandi08-code/text-to-speech-ai-bot.div)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
